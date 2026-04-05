@@ -1,0 +1,9 @@
+D:\c#\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\c#\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\c#\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\c#\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\c#\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\c#\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\c#\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\c#\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\c#\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,17 @@
+D:\c#\WindowsFormsApp1PresentationLayer\bin\Debug\WindowsFormsApp1PresentationLayer.exe.config
+D:\c#\WindowsFormsApp1PresentationLayer\bin\Debug\WindowsFormsApp1PresentationLayer.exe
+D:\c#\WindowsFormsApp1PresentationLayer\bin\Debug\WindowsFormsApp1PresentationLayer.pdb
+D:\c#\WindowsFormsApp1PresentationLayer\bin\Debug\BusinessLayer.dll
+D:\c#\WindowsFormsApp1PresentationLayer\bin\Debug\BusinessLayer.pdb
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsFormsApp1PresentationLayer.csproj.AssemblyReference.cache
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsFormsApp1PresentationLayer.Properties.Resources.resources
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsFormsApp1PresentationLayer.csproj.GenerateResource.cache
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsFormsApp1PresentationLayer.csproj.CoreCompileInputs.cache
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsF.FA05C17E.Up2Date
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsFormsApp1PresentationLayer.exe
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsFormsApp1PresentationLayer.pdb
+D:\c#\WindowsFormsApp1PresentationLayer\bin\Debug\DataAccessLayer.dll
+D:\c#\WindowsFormsApp1PresentationLayer\bin\Debug\DataAccessLayer.pdb
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsFormsApp1PresentationLayer.exe.config
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsFormsApp1PresentationLayer.FormList.resources
+D:\c#\WindowsFormsApp1PresentationLayer\obj\Debug\WindowsFormsApp1PresentationLayer.FormAddEdit.resources
